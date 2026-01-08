@@ -65,9 +65,9 @@ export const PROJECTS: Project[] = [
 ];
 
 export const SOCIALS: SocialLink[] = [
-  { platform: "LinkedIn", url: "#", icon: "linkedin" },
-  { platform: "GitHub", url: "#", icon: "github" },
-  { platform: "Instagram", url: "#", icon: "instagram" },
+  { platform: "LinkedIn", url: "https://www.linkedin.com/in/ahmad-diksa-sumadiono-411568243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", icon: "linkedin" },
+  { platform: "GitHub", url: "https://github.com/AhmadDiksa", icon: "github" },
+  { platform: "Instagram", url: "https://www.instagram.com/ahmad.diksa/", icon: "instagram" },
 ];
 
 export const generatePortfolioContext = () => {
