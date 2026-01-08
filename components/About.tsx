@@ -39,7 +39,7 @@ const About: React.FC = () => {
             <div className="aspect-square rounded-2xl overflow-hidden bg-surface border border-white/10 relative group">
               {/* Decorative placeholder for visual style */}
               <img 
-                src="public/images/dioncrop.jpg"
+                src="/images/dioncrop.jpg"
                 alt="Abstract representation" 
                 // className="w-full h-full object-cover opacity-40 mix-blend-overlay"
               />
